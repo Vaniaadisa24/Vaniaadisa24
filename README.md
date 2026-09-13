@@ -1,10 +1,10 @@
 # Hi, I'm Vania 👋
 
-**Data Analyst** based in Tangerang, Indonesia.
+**Data Analyst**
 
-I turn raw data into decisions. I design the SQL business logic and metrics behind
-data marts in BigQuery, then build self-serve Tableau and Looker Studio dashboards
-that replace manual reporting. Three years across data consulting, credit risk, and
+I turn raw data into reporting that teams rely on. I design the SQL business logic
+and metrics behind data marts in BigQuery, then build self-serve Tableau and Looker
+Studio dashboards that replace manual reporting. Three years across data consulting, credit risk, and
 people analytics, serving clients in online retail, FMCG, and B2B retail and
 wholesale. Mathematics graduate, Universitas Indonesia.
 
