@@ -24,7 +24,7 @@ wholesale. Mathematics graduate, Universitas Indonesia.
 - Validate outputs against source data so issues are caught before they reach users
 - Bridge business stakeholders and Data Engineering, from requirements to delivery
 
-### Featured project
+### Featured projects
 
 **[Capella Academy — Student Progress Tracker](https://github.com/Vaniaadisa24/capella-academy-demo)** · **[live demo](https://vaniaadisa24.github.io/capella-academy-demo/)**
 
@@ -32,6 +32,13 @@ A single-page web app for a private tutoring practice: lesson planning,
 per-question comprehension scoring rolled up to chapter and overall percentages,
 and auto-generated PDF study reports. Built end to end, data model to UI. The
 public demo runs on fictional sample data.
+
+**[My Finance — Personal Wealth Dashboard](https://github.com/Vaniaadisa24/finance-demo)** · **[live demo](https://vaniaadisa24.github.io/finance-demo/)**
+
+A React app to plan a monthly budget (plan vs actual), log daily transactions
+with bank reconciliation, and track net worth across cash, stocks, and gold.
+Built end to end, with a centralized calculation layer. The public demo runs on
+fictional sample data.
 
 ### Let's connect
 
